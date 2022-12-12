@@ -7,9 +7,9 @@ const About = () => {
             <div className='pb-8'>
                 <p className='text-4xl font-bold inline border-b-4 border-gray-500'>About</p>
             </div>
-            <p className='text-xl mt-20'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo doloribus earum at ipsum, architecto nam incidunt culpa, corporis enim animi molestiae doloremque iure quis delectus aspernatur. Sequi vitae voluptatem cumque illo distinctio aspernatur debitis! Pariatur facilis veritatis placeat, ullam suscipit perspiciatis ipsum voluptatem! Ipsa sequi totam nemo ipsum voluptatem laboriosam?</p>
+            <p className='text-xl mt-20'>I'm a newly graduated Web Developer from DevMountain with substantial knowledge of JavaScript, HTML, CSS, React, and Tailwind. I have a background in mechanical engineering, accounting, and computer science. </p>
             <br />
-            <p className='text-xl'>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod suscipit dicta architecto reprehenderit impedit, provident, ducimus doloribus, magnam iusto minima autem accusamus. Id, sunt atque dolor, deleniti ipsam odio reprehenderit iusto aperiam, consectetur dolore nesciunt praesentium blanditiis iste quae exercitationem qui veritatis voluptates dolorum magni repudiandae soluta beatae officia voluptatem!</p>
+            <p className='text-xl'>On days when I'm not busy you can find me longboarding, grabbing good food with my partner, or playing video games with friends. I love coffee, pizza, and good whiskey so if you have any recommendations then send me a message!</p>
         </div>
     </div>
   )
